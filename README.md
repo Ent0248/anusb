@@ -9,9 +9,13 @@ anusb是一个用bash脚本开发基于Gadget Tool的badusb小工具，免责声
 
 ## 安装:
 在termux里输入
+
 1.克隆仓库
+
 `git clone https://github.com/Ent0248/anusb.git`
+
 2.安装
+
 `cd anusb;bash install.sh`
 
 
