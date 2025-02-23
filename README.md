@@ -15,7 +15,7 @@ cd anusb;bash install.sh
 USB Gadget Tool.apk的设置
 ![示例图片](a.png)
 ![示例图片](b.png)
-![示例图片](c.pmg)
+![示例图片](c.png)
 
 
 
