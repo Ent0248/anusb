@@ -23,8 +23,8 @@ anusb是一个用bash脚本开发基于Gadget Tool的badusb小工具，免责声
 
 ## USB Gadget Tool.apk的设置
 ![示例图片](a.png)
-![示例图片](b.png)
 ![示例图片](c.png)
+![示例图片](b.png)
 
 
 
