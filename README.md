@@ -7,7 +7,9 @@
 
 ## 安装:
 在termux里输入
+1.克隆仓库
 `git clone https://github.com/Ent0248/anusb.git`
+2.安装
 `cd anusb;bash install.sh`
 
 
@@ -25,7 +27,8 @@
 
 
 
-## 启动: `anusb`
-设置好USB Gadget Tool.apk后需要在anusb里输入hid来选择hid，可能会有多个，需要自己测试，如果没有出现就用数据线连接电脑后尝试重新插拔，只需要设置好一次，直到重启前都不需要再重新设置
+## 启动: 
+`anusb`
+设置好USB Gadget Tool.apk后需要在anusb里选择对应的hid，直接输入hid名称，可能会有多个，需要自己测试，如果没有出现就用数据线连接电脑后尝试重新插拔，只需要设置好一次，直到重启前都不需要再重新设置
 
 脚本语法请查看项目中的 语法说明.txt
