@@ -24,35 +24,4 @@ USB Gadget Tool.apk的设置
 #启动: anusb
 设置好USB Gadget Tool.apk后需要在anusb里输入hid来选择hid，可能会有多个，需要自己测试，如果没有出现就用数据线连接电脑后尝试重新插拔，只需要设置好一次，直到重启前都不需要再重新设置
 
-
-
-
-
-#badusb脚本语法:
-[SLEEP 1]  #等1秒
-
-[ENTER]  #回车/换行
-[SPACE]  #空格
-[ESC]  #ESC
-[TAB]  #TAB
-[CAPS]  #Caps/大小写锁定
-[{]  #符号[
-[}]  #符号]
-[#]  #符号#
-
-#控制键--控制键无法单独使用，必须配合普通按键使用:
-[CLEAR]  #松开所有按键
-[WIN_1]  #win-按下
-[CTRL_1]  #按下坤键
-[SHIFT_1]  #Shift-按下
-[ALT_1]  #Alt-按下
-
-#CTRL+C示例:
-[CTRL_1]C[CLEAR]
-
-
-
-#F类
-[F1]  #F1
-[F2]  #F2
-#以此类推到F12......
+脚本语法请查看项目中的 语法说明.txt
