@@ -1,5 +1,10 @@
 #!/data/data/com.termux/files/usr/bin/env bash
 
+#检查用户是否为root用户
+if [ $(id -u) != 0 ]; then
+    echo -e "\033[1;31m请使用root权限执行 !\033[0m"
+    exit 1
+fi
 
 CONFIG="/data/user/0/com.termux/files/home/.config/anusb/anusb.conf"  #配置文件位置
 if [ -! -e "$CONFIG" ];then
