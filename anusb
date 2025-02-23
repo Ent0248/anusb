@@ -1,0 +1,2 @@
+#!/data/data/com.termux/files/usr/bin/env bash
+su -c "sh /data/user/0/com.termux/files/usr/bin/anusb.sh"
