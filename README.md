@@ -30,7 +30,8 @@ anusb是一个用bash脚本开发基于Gadget Tool的badusb小工具，免责声
 
 
 ## 启动: 
-`anusb`
+输入`anusb`启动
+
 设置好USB Gadget Tool.apk后需要在anusb里选择对应的hid，直接输入hid名称，可能会有多个，需要自己测试，如果没有出现就用数据线连接电脑后尝试重新插拔，只需要设置好一次，直到重启前都不需要再重新设置
 
 脚本语法请查看项目中的 语法说明.txt
