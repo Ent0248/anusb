@@ -9,6 +9,10 @@
 在termux里输入
 `git clone https://github.com/Ent0248/anusb.git`
 `cd anusb;bash install.sh`
+
+
+
+##Gadget Tool.apk
 还需要安装USB Gadget Tool
 前往https://github.com/tejado/android-usb-gadget
 下载安装USB Gadget Tool.apk
